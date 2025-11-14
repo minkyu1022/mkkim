@@ -79,3 +79,11 @@ cv:
         summary: Boltzmann sampling via Harmonic Path Integral Diffusion
         highlights:
           - "Coworkers: Sungsoo Ahn, Michael Chertkov, Hamidreza Behjoo"
+    skills:
+      - label: Programming
+        details: Python, C++
+      - label: Tools
+        details: PyTorch, Pymatgen, ASE, Pymatgen, OpenMM, Fairchem
+      - label: AI/ML fundamentals
+        details: Generative Models, Equivariant Networks, Reinforcement Learning
+
