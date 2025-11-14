@@ -46,8 +46,8 @@ cv:
         highlights:
           - "[Structured and Probabilistic Machine Learning Lab](https://sites.google.com/view/sungsooahn0215) @ Sungsoo Ahn"
           - "Topic: Diffusion samplers, Molecular dynamics (MD), Generative Flow Networks (GFlowNet), Catalyst"
-      - institution: Institut National des Sciences Appliquées (INSA) Lyon
-        area: Bioinfomatics
+      - institution: Technische Universität Wien (TU Wien)
+        area: Applied Mathematics
         degree: E.S.
         location: Vienna, Austria
         start_date: 2023-02
