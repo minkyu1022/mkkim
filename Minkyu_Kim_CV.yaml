@@ -1,0 +1,81 @@
+cv:
+  name: Minkyu Kim
+  location: Seoul, South Korea
+  email: minkyu-kim@kaist.ac.kr
+  phone: +82-10-6342-9959
+  website: https://minkyu1022.github.io/mkkim
+  social_networks:
+    - network: LinkedIn
+      username: minkyu1022
+    - network: GitHub
+      username: minkyu1022
+    - network: Google Scholar
+      username: YS0xOOMAAAAJ
+  sections:
+    Summary:
+      - "I'm a 1st-year Ph.D. candidate in at KAIST AI, advised by [Sungsoo Ahn](https://sites.google.com/view/sungsooahn0215). I majored in Mathematics, and recently led a project on scalable diffusion sampler for molecular conformer generation with sample-efficient training. Currently, I am developing generative models for catalyst design conditioned on adsorbates."
+
+    publications:
+      - title: "On scalable and efficient training of diffusion samplers"
+        authors:
+          - "***Minkyu Kim***"
+          - Kiyoung Seong
+          - Dongyeop Woo
+          - Sungsoo Ahn
+          - Minsu Kim
+        journal: NeurIPS 2025
+        date: 2025
+        url: https://arxiv.org/abs/2505.19552
+      - title: "Energy-based generator matching: A neural sampler for general state space"
+        authors:
+          - Dongyeop Woo
+          - Minsu Kim
+          - "***Minkyu Kim***"
+          - Kiyoung Seong
+          - Sungsoo Ahn
+        journal: NeurIPS 2025
+        date: 2025
+        url: https://arxiv.org/abs/2505.19646
+
+    Education:
+      - institution: Korea Advanced Institute of Science and Technology (KAIST)
+        area: Kim Jaechul Gradudate School of Artificial Intelligence
+        degree: Ph.D.
+        location: Seoul, South Korea
+        start_date: 2025-02
+        highlights:
+          - "[Structured and Probabilistic Machine Learning Lab](https://sites.google.com/view/sungsooahn0215) @ Sungsoo Ahn"
+          - "Topic: Diffusion samplers, Molecular dynamics (MD), Generative Flow Networks (GFlowNet), Catalyst"
+      - institution: Institut National des Sciences Appliquées (INSA) Lyon
+        area: Bioinfomatics
+        degree: E.S.
+        location: Vienna, Austria
+        start_date: 2023-02
+        end_date: 2023-08
+        summary: Exchange Student
+      - institution: Pohang University of Science and Technology (POSTECH)
+        area: Computer Science and Engineering (CSE)
+        degree: B.S.
+        location: Pohang, South Korea
+        start_date: 2020-02
+        end_date: 2024-02
+
+    Experience:
+      - company: Korea Advanced Institute of Science and Technology (KAIST)
+        position: Project leader
+        start_date: 2025-08
+        summary: Catalyst Generation Conditioned on Adsorbates via Diffusion (Ongoing)
+        highlights:
+          - "Designing a one-shot generative model to jointly predict slab stoichiometry (element counts/ratios) and structure directly from elemental composition."
+      - company: Korea Advanced Institute of Science and Technology (KAIST)
+        position: Grant Recipient
+        summary: Research Encouragement Grant for Graduate Students (Selected)
+        highlights:
+          - "Inference-Time Scaling of Biomolecular Diffusion Models using Feynman-Kac based Search-Guided Diffusion Samplers"
+      - company: Pohang University of Science and Technology (POSTECH)
+        position: Research intern
+        start_date: 2024-08
+        end_date: 2025-02
+        summary: Boltzmann sampling via Harmonic Path Integral Diffusion
+        highlights:
+          - "Coworkers: Sungsoo Ahn, Michael Chertkov, Hamidreza Behjoo"

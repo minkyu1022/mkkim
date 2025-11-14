@@ -1,5 +1,5 @@
 
-rendercv render "Seonghyun_PARk_CV.yaml" \
+rendercv render "Minkyu_Kim_CV.yaml" \
     --output-folder-name output 
-    # --pdf-path output/Seonghyun_Park_CV.pdf
+    # --pdf-path output/Minkyu_Kim_CV.pdf
     # --watch \
