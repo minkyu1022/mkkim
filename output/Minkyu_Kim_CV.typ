@@ -604,7 +604,7 @@ Feb 2020 – Feb 2024
     #v(-design-text-leading)
     #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Research Encouragement Grant for Graduate Students \(Selected\)])], column-gutter: 0cm)
 
-#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Inference-Time Scaling of Biomolecular Diffusion Models using Feynman-Kac based Search-Guided Diffusion Samplers],)
+#v(-design-text-leading)  #v(design-highlights-top-margin);#highlights([Inference-Time Steering of Biomolecular Diffusion Models using Feynman-Kac based Diffusion Samplers],)
   ],
 )
 
@@ -631,7 +631,7 @@ Feb 2020 – Feb 2024
 
 
 #one-col-entry(
-  content: [#strong[Programming:] Python, C]
+  content: [#strong[Programming:] C\+\+, Python]
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
@@ -639,7 +639,7 @@ Feb 2020 – Feb 2024
 )
 #v(design-entries-vertical-space-between-entries)
 #one-col-entry(
-  content: [#strong[AI\/ML fundamentals:] Generative Models, Equivariant Networks, Reinforcement Learning]
+  content: [#strong[Fundamentals:] Generative Models, Equivariant Networks, Reinforcement Learning, Stochastic Differntial Equations]
 )
 
 

@@ -71,7 +71,7 @@ cv:
         position: Grant Recipient
         summary: Research Encouragement Grant for Graduate Students (Selected)
         highlights:
-          - "Inference-Time Scaling of Biomolecular Diffusion Models using Feynman-Kac based Search-Guided Diffusion Samplers"
+          - "Inference-Time Steering of Biomolecular Diffusion Models using Feynman-Kac based Diffusion Samplers"
       - company: Pohang University of Science and Technology (POSTECH)
         position: Research intern
         start_date: 2024-08
@@ -81,9 +81,9 @@ cv:
           - "Coworkers: Sungsoo Ahn, Michael Chertkov, Hamidreza Behjoo"
     skills:
       - label: Programming
-        details: Python, C++
+        details: C\+\+, Python
       - label: Tools
         details: PyTorch, Pymatgen, ASE, Pymatgen, OpenMM, Fairchem
-      - label: AI/ML fundamentals
-        details: Generative Models, Equivariant Networks, Reinforcement Learning
+      - label: Fundamentals
+        details: Generative Models, Equivariant Networks, Reinforcement Learning, Stochastic Differntial Equations
 

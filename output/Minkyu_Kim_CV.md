@@ -53,7 +53,7 @@ I'm a 1st-year Ph.D. candidate in at KAIST AI, advised by [Sungsoo Ahn](https://
 
 ## Korea Advanced Institute of Science and Technology (KAIST), Grant Recipient
 
-- Inference-Time Scaling of Biomolecular Diffusion Models using Feynman-Kac based Search-Guided Diffusion Samplers
+- Inference-Time Steering of Biomolecular Diffusion Models using Feynman-Kac based Diffusion Samplers
 
 ## Pohang University of Science and Technology (POSTECH), Research intern
 
@@ -62,6 +62,6 @@ I'm a 1st-year Ph.D. candidate in at KAIST AI, advised by [Sungsoo Ahn](https://
 
 # Skills
 
-- Programming: Python, C++
+- Programming: C\+\+, Python
 - Tools: PyTorch, Pymatgen, ASE, Pymatgen, OpenMM, Fairchem
-- AI/ML fundamentals: Generative Models, Equivariant Networks, Reinforcement Learning
+- Fundamentals: Generative Models, Equivariant Networks, Reinforcement Learning, Stochastic Differntial Equations
